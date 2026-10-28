@@ -1,0 +1,6 @@
+# Compiled executable
+paisapilot.exe
+paisapilot
+
+# Personal transaction records
+data/transactions.txt
